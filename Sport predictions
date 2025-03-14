@@ -1,2 +1,44 @@
 git clone https://Emmanuel/Mr.Manuel predictions/repository-name.git
 cd repository-Mr.Manuel predictions
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manuel Predictions</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Manuel Predictions</h1>
+    <p>Accurate Sports Betting Predictions</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Upcoming Games</h2>
+      <div class="game">
+        <h3>Team A vs Team B</h3>
+        <p><strong>Prediction:</strong> Team A to win (70% accuracy)</p>
+        <p><strong>Score:</strong> 2-1 (65% accuracy)</p>
+        <p><strong>Corners:</strong> 5+ (60% accuracy)</p>
+        <p><strong>Bookings:</strong> Over 3.5 (55% accuracy)</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Accuracy Levels</h2>
+      <ul>
+        <li>Scores: 65%</li>
+        <li>Corners: 60%</li>
+        <li>Bookings: 55%</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Manuel Predictions. All rights reserved.</p>
+  </footer>
+</body>
+</html>
